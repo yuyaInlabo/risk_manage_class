@@ -1,3 +1,4 @@
+# author yuya
 import numpy as np
 PB1 = 0.0009
 PB2 = 1 - PB1
